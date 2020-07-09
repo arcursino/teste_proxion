@@ -1,9 +1,9 @@
 ## Teste
 
-[x] Login e autenticação via REST
-[] Cadastro e Lista de Material
-[] Cadastro e Lista de Categoria
-[] Cadastro e Lista de Saldo
+- [x] Login e autenticação via REST
+- [] Cadastro e Lista de Material
+- [] Cadastro e Lista de Categoria
+- [] Cadastro e Lista de Saldo
  
 
 
