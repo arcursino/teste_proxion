@@ -1,12 +1,14 @@
 from core import views
-from django.urls import path
+from rest_framework_jwt.views import obtain_jwt_token
+from django.urls import path, include
+
 
 urlpatterns = [
-    path('api/dapau', views.dapau),
-    path('api/login', views.login),
-    path('api/logout', views.logout),
-    path('api/whoami', views.whoami),
-    path('api/settings', views.settings),
-    path('api/add_todo', views.add_todo),
-    path('api/list_todos', views.list_todos),    
+    path('dapau', views.dapau), 
+    path('logout', views.logout),
+    path('whoami', views.whoami),
+    path('settings', views.settings),
+    path('add_todo', views.add_todo),
+    path('list_todos', views.list_todos), 
+    path('dj-rest-auth/', include('dj_rest_auth.urls')),
 ]
