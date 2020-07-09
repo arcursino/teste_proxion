@@ -1,11 +1,10 @@
 ## Teste
 
 - [x] Login e autenticação via REST
-- [] Cadastro e Lista de Material
-- [] Cadastro e Lista de Categoria
-- [] Cadastro e Lista de Saldo
+- [ ] Cadastro e Lista de Material
+- [ ] Cadastro e Lista de Categoria
+- [ ] Cadastro e Lista de Saldo
  
-
 
 # 1. Dev-env, super-easy mode (docker all things)
 
