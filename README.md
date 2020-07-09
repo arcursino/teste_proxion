@@ -1,6 +1,6 @@
 ## Teste
 
-- O protótipo da Aplicação pode ser vista no [Figma] (https://www.figma.com/proto/GqGLZB7WgqhN6RJjCRNyA2/Proxion?node-id=0%3A3&scaling=min-zoom)
+- O protótipo da Aplicação pode ser vista no [Figma] (https://www.figma.com/proto/GqGLZB7WgqhN6RJjCRNyA2/Proxion?node-id=0%3A3&scaling=min-zoom/)
 
 - [x] Login e autenticação via REST
 - [ ] Cadastro e Lista de Material
